@@ -1,0 +1,12 @@
+c:\users\yigit\documents\visual studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe.config
+c:\users\yigit\documents\visual studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csprojResolveAssemblyReference.cache
+C:\Users\yigit\Documents\Visual Studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+C:\Users\yigit\Documents\Visual Studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+C:\Users\yigit\Documents\Visual Studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe
+C:\Users\yigit\Documents\Visual Studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe.config
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+D:\Visual Studio 2013\Projects\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csprojResolveAssemblyReference.cache
